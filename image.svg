@@ -1,0 +1,42 @@
+<svg fill="none" viewBox="0 0 800 700" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+		div {
+  			padding: 5pt;
+  			color: rgb(255, 177, 176);
+  			font: 1.3rem Inconsolata, monospace;
+		}
+		h1 {
+			margin-bottom: 0;
+		}
+		ul {
+			list-style-type: square;
+		}
+		p {
+			line-height: 0;
+		}
+		a:any-link {
+  			color: rgb(255, 177, 176);
+		}
+      </style>
+	<h1>./Kotarou0.sh </h1>
+      <ul>
+      	<li>[👋] Hey! My name is João;</li>
+      	<li>[🇧🇷] Brazilian;</li>
+      	<li>[💻] I'm studying Systems Development at <a target="_blank" href="https://spo.ifsp.edu.br/">IFSP-SPO</a> (1/4);</li>
+      	<li>[⚙️] Interested in STEM topics;</li>
+      	<li>[📖] Learning Math, Physics and Programming;</li>
+      	<li>[🧪] Currently messing around with Python and Godot;</li>
+      	<li>[🏆] Awards:
+		<ul>
+		<li><a target="_blank" href="https://spo.ifsp.edu.br/destaques/3568-olimp%C3%ADada-de-matem%C3%A1tica">Math Kangaroo</a> 🥇;</li>
+		<li>OBMEP 🥈🥈🥉;</li>
+		<li><a target="_blank" href="https://shorturl.at/ajoTZ">OBA</a> 🥇.</li>
+		</ul>
+      	</li>
+      </ul>
+      <p align="right"><font size="2pt">p∣(a<sup>p</sup> - a) ∀ p ∈ ℙ</font></p>
+    </div>
+  </foreignObject>
+</svg>
